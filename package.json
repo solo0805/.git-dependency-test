@@ -1,0 +1,19 @@
+{
+  "name": "@sbsoso0411/.git-dependency-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbsoso0411/.git-dependency-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbsoso0411/.git-dependency-test/issues"
+  },
+  "homepage": "https://github.com/sbsoso0411/.git-dependency-test#readme"
+}
