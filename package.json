@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sbsoso0411/.git-dependency-test/issues"
   },
-  "homepage": "https://github.com/sbsoso0411/.git-dependency-test#readme"
+  "homepage": "https://github.com/sbsoso0411/.git-dependency-test#readme",
+  "publishConfig": {
+    "@sbsoso0411:registry": "https://npm.pkg.github.com"
+  }
 }
